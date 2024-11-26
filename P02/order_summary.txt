@@ -1,0 +1,8 @@
+Items in the cart:
+Helmet - Quantity: 1, Unit Price: 157236, Total Price: 157236
+Gloves - Quantity: 2, Unit Price: 8163, Total Price: 16326
+Socks - Quantity: 5, Unit Price: 2500, Total Price: 12500
+Jersey - Quantity: 1, Unit Price: 30000, Total Price: 30000
+Shoes - Quantity: 1, Unit Price: 15000, Total Price: 15000
+Total Price: 207956
+Coupons applied: 10% Discount 

@@ -1,0 +1,5 @@
+Helmet 1 157236
+Gloves 2 8163
+Socks 5 2500
+Jersey 1 30000
+Shoes 1 15000
